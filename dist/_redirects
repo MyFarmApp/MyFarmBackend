@@ -1,2 +1,3 @@
-/token /.netlify/functions/token 200
+/api/v1/token /.netlify/functions/token 200
+/token /api/v1/token 301
 /* https://myfarmapp-crops.web.app
