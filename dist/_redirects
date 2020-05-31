@@ -5,3 +5,4 @@
 /api/v1/token /api/v1/utils/token 301
 /token /api/v1/utils/token 301
 /* https://myfarmapp.tk
+/dashboard https://myfarmapp.tk/dashboard.html
