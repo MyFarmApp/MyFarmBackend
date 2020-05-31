@@ -1,6 +1,6 @@
 /api/v1/utils/token /.netlify/functions/token 200
 /api/v1/myfarm/* https://myfarmapp-crops.firebaseio.com/:splat.json 200
-/api/v1/crops/* https://growstuff.org/:splat.json 200
+/api/v1/crops/* https://growstuff.org/:splat.json 301
 /api/v1/plants/* https://trefle.io/api/:splat 200
 /api/v1/token /api/v1/utils/token 301
 /token /api/v1/utils/token 301
